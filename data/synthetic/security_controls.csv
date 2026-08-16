@@ -1,0 +1,9 @@
+control_id,control_name,technology,control_type,control_owner,status
+C001,PowerShell Script Block Logging,SIEM,Detective,Detection Engineering,Active
+C002,Endpoint Credential Protection,EDR,Preventive,Endpoint Security,Active
+C003,Email Attachment Filtering,Email Security,Preventive,Messaging Security,Active
+C004,Outbound Data Loss Monitoring,DLP,Detective,Data Protection,Active
+C005,Remote Desktop Access Restriction,IAM,Preventive,Identity Security,Active
+C006,Command Line Process Monitoring,EDR,Detective,Endpoint Security,Active
+C007,Malicious Domain Blocking,Proxy,Preventive,Network Security,Active
+C008,Privileged Account Monitoring,SIEM,Detective,Identity Security,Active
