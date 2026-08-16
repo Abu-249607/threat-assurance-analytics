@@ -1,0 +1,1847 @@
+technique_id,technique_name,platform
+T1055.011,Extra Window Memory Injection,Windows
+T1053.005,Scheduled Task,Windows
+T1205.002,Socket Filters,Linux
+T1205.002,Socket Filters,macOS
+T1205.002,Socket Filters,Windows
+T1560.001,Archive via Utility,Linux
+T1560.001,Archive via Utility,macOS
+T1560.001,Archive via Utility,Windows
+T1021.005,VNC,Linux
+T1021.005,VNC,Windows
+T1021.005,VNC,macOS
+T1047,Windows Management Instrumentation,Windows
+T1687,Exploitation for Defense Impairment,IaaS
+T1687,Exploitation for Defense Impairment,Linux
+T1687,Exploitation for Defense Impairment,macOS
+T1687,Exploitation for Defense Impairment,SaaS
+T1687,Exploitation for Defense Impairment,Windows
+T1113,Screen Capture,Linux
+T1113,Screen Capture,macOS
+T1113,Screen Capture,Windows
+T1027.011,Fileless Storage,Linux
+T1027.011,Fileless Storage,Windows
+T1037,Boot or Logon Initialization Scripts,ESXi
+T1037,Boot or Logon Initialization Scripts,Linux
+T1037,Boot or Logon Initialization Scripts,macOS
+T1037,Boot or Logon Initialization Scripts,Network Devices
+T1037,Boot or Logon Initialization Scripts,Windows
+T1557,Adversary-in-the-Middle,Linux
+T1557,Adversary-in-the-Middle,macOS
+T1557,Adversary-in-the-Middle,Network Devices
+T1557,Adversary-in-the-Middle,Windows
+T1033,System Owner/User Discovery,Linux
+T1033,System Owner/User Discovery,macOS
+T1033,System Owner/User Discovery,Network Devices
+T1033,System Owner/User Discovery,Windows
+T1583,Acquire Infrastructure,PRE
+T1218.011,Rundll32,Windows
+T1613,Container and Resource Discovery,Containers
+T1583.007,Serverless,PRE
+T1132.001,Standard Encoding,ESXi
+T1132.001,Standard Encoding,Linux
+T1132.001,Standard Encoding,macOS
+T1132.001,Standard Encoding,Windows
+T1027.009,Embedded Payloads,Linux
+T1027.009,Embedded Payloads,macOS
+T1027.009,Embedded Payloads,Windows
+T1556.003,Pluggable Authentication Modules,Linux
+T1556.003,Pluggable Authentication Modules,macOS
+T1578.004,Revert Cloud Instance,IaaS
+T1592,Gather Victim Host Information,PRE
+T1596.003,Digital Certificates,PRE
+T1056.001,Keylogging,Linux
+T1056.001,Keylogging,macOS
+T1056.001,Keylogging,Network Devices
+T1056.001,Keylogging,Windows
+T1564.012,File/Path Exclusions,Linux
+T1564.012,File/Path Exclusions,macOS
+T1564.012,File/Path Exclusions,Windows
+T1222.002,Linux and Mac Permissions,Linux
+T1222.002,Linux and Mac Permissions,macOS
+T1110.001,Password Guessing,Containers
+T1110.001,Password Guessing,ESXi
+T1110.001,Password Guessing,IaaS
+T1110.001,Password Guessing,Identity Provider
+T1110.001,Password Guessing,Linux
+T1110.001,Password Guessing,macOS
+T1110.001,Password Guessing,Network Devices
+T1110.001,Password Guessing,Office Suite
+T1110.001,Password Guessing,SaaS
+T1110.001,Password Guessing,Windows
+T1216.001,PubPrn,Windows
+T1597.002,Purchase Technical Data,PRE
+T1003,OS Credential Dumping,Linux
+T1003,OS Credential Dumping,macOS
+T1003,OS Credential Dumping,Windows
+T1129,Shared Modules,Linux
+T1129,Shared Modules,macOS
+T1129,Shared Modules,Windows
+T1602,Data from Configuration Repository,Network Devices
+T1561.002,Disk Structure Wipe,Linux
+T1561.002,Disk Structure Wipe,macOS
+T1561.002,Disk Structure Wipe,Network Devices
+T1561.002,Disk Structure Wipe,Windows
+T1498.001,Direct Network Flood,Windows
+T1498.001,Direct Network Flood,IaaS
+T1498.001,Direct Network Flood,Linux
+T1498.001,Direct Network Flood,macOS
+T1574.007,Path Interception by PATH Environment Variable,Linux
+T1574.007,Path Interception by PATH Environment Variable,macOS
+T1574.007,Path Interception by PATH Environment Variable,Windows
+T1213.002,Sharepoint,Office Suite
+T1213.002,Sharepoint,Windows
+T1006,Direct Volume Access,Network Devices
+T1006,Direct Volume Access,Windows
+T1588.007,Artificial Intelligence,PRE
+T1666,Modify Cloud Resource Hierarchy,IaaS
+T1564.008,Email Hiding Rules,Windows
+T1564.008,Email Hiding Rules,Linux
+T1564.008,Email Hiding Rules,macOS
+T1564.008,Email Hiding Rules,Office Suite
+T1491.002,External Defacement,Windows
+T1491.002,External Defacement,IaaS
+T1491.002,External Defacement,Linux
+T1491.002,External Defacement,macOS
+T1027.013,Encrypted/Encoded File,Linux
+T1027.013,Encrypted/Encoded File,macOS
+T1027.013,Encrypted/Encoded File,Windows
+T1590.005,IP Addresses,PRE
+T1499.001,OS Exhaustion Flood,Linux
+T1499.001,OS Exhaustion Flood,macOS
+T1499.001,OS Exhaustion Flood,Windows
+T1014,Rootkit,Linux
+T1014,Rootkit,macOS
+T1014,Rootkit,Windows
+T1546.013,PowerShell Profile,Windows
+T1059.007,JavaScript,Linux
+T1059.007,JavaScript,macOS
+T1059.007,JavaScript,Windows
+T1685.003,Modify or Spoof Tool UI,Linux
+T1685.003,Modify or Spoof Tool UI,macOS
+T1685.003,Modify or Spoof Tool UI,Windows
+T1590.002,DNS,PRE
+T1485.001,Lifecycle-Triggered Deletion,IaaS
+T1123,Audio Capture,Linux
+T1123,Audio Capture,macOS
+T1123,Audio Capture,Windows
+T1543,Create or Modify System Process,Containers
+T1543,Create or Modify System Process,Linux
+T1543,Create or Modify System Process,macOS
+T1543,Create or Modify System Process,Windows
+T1133,External Remote Services,Containers
+T1133,External Remote Services,Linux
+T1133,External Remote Services,macOS
+T1133,External Remote Services,Windows
+T1546.006,LC_LOAD_DYLIB Addition,macOS
+T1539,Steal Web Session Cookie,Linux
+T1539,Steal Web Session Cookie,macOS
+T1539,Steal Web Session Cookie,Office Suite
+T1539,Steal Web Session Cookie,SaaS
+T1539,Steal Web Session Cookie,Windows
+T1053.007,Container Orchestration Job,Containers
+T1568.002,Domain Generation Algorithms,ESXi
+T1568.002,Domain Generation Algorithms,Linux
+T1568.002,Domain Generation Algorithms,macOS
+T1568.002,Domain Generation Algorithms,Windows
+T1036.007,Double File Extension,Windows
+T1548.002,Bypass User Account Control,Windows
+T1496.003,SMS Pumping,SaaS
+T1016.001,Internet Connection Discovery,Windows
+T1016.001,Internet Connection Discovery,Linux
+T1016.001,Internet Connection Discovery,macOS
+T1016.001,Internet Connection Discovery,ESXi
+T1548.003,Sudo and Sudo Caching,Linux
+T1548.003,Sudo and Sudo Caching,macOS
+T1685.001,Disable or Modify Windows Event Log,Windows
+T1682,Query Public AI Services,PRE
+T1560.003,Archive via Custom Method,Linux
+T1560.003,Archive via Custom Method,macOS
+T1560.003,Archive via Custom Method,Windows
+T1578,Modify Cloud Compute Infrastructure,IaaS
+T1584.008,Network Devices,PRE
+T1583.008,Malvertising,PRE
+T1069,Permission Groups Discovery,Containers
+T1069,Permission Groups Discovery,IaaS
+T1069,Permission Groups Discovery,Identity Provider
+T1069,Permission Groups Discovery,Linux
+T1069,Permission Groups Discovery,macOS
+T1069,Permission Groups Discovery,Office Suite
+T1069,Permission Groups Discovery,SaaS
+T1069,Permission Groups Discovery,Windows
+T1114,Email Collection,Windows
+T1114,Email Collection,macOS
+T1114,Email Collection,Linux
+T1114,Email Collection,Office Suite
+T1003.002,Security Account Manager,Windows
+T1596.002,WHOIS,PRE
+T1542.001,System Firmware,Network Devices
+T1542.001,System Firmware,Windows
+T1594,Search Victim-Owned Websites,PRE
+T1069.003,Cloud Groups,SaaS
+T1069.003,Cloud Groups,IaaS
+T1069.003,Cloud Groups,Office Suite
+T1069.003,Cloud Groups,Identity Provider
+T1574.011,Services Registry Permissions Weakness,Windows
+T1596.001,DNS/Passive DNS,PRE
+T1499.003,Application Exhaustion Flood,Windows
+T1499.003,Application Exhaustion Flood,IaaS
+T1499.003,Application Exhaustion Flood,Linux
+T1499.003,Application Exhaustion Flood,macOS
+T1195.001,Compromise Software Dependencies and Development Tools,Linux
+T1195.001,Compromise Software Dependencies and Development Tools,macOS
+T1195.001,Compromise Software Dependencies and Development Tools,Windows
+T1588.004,Digital Certificates,PRE
+T1583.002,DNS Server,PRE
+T1561,Disk Wipe,Linux
+T1561,Disk Wipe,macOS
+T1561,Disk Wipe,Windows
+T1561,Disk Wipe,Network Devices
+T1071.004,DNS,ESXi
+T1071.004,DNS,Linux
+T1071.004,DNS,macOS
+T1071.004,DNS,Network Devices
+T1071.004,DNS,Windows
+T1552.005,Cloud Instance Metadata API,IaaS
+T1555.002,Securityd Memory,Linux
+T1555.002,Securityd Memory,macOS
+T1615,Group Policy Discovery,Windows
+T1542.003,Bootkit,Linux
+T1542.003,Bootkit,Windows
+T1025,Data from Removable Media,Linux
+T1025,Data from Removable Media,macOS
+T1025,Data from Removable Media,Windows
+T1218.013,Mavinject,Windows
+T1074.001,Local Data Staging,ESXi
+T1074.001,Local Data Staging,Linux
+T1074.001,Local Data Staging,macOS
+T1074.001,Local Data Staging,Windows
+T1036.005,Match Legitimate Resource Name or Location,Containers
+T1036.005,Match Legitimate Resource Name or Location,ESXi
+T1036.005,Match Legitimate Resource Name or Location,Linux
+T1036.005,Match Legitimate Resource Name or Location,macOS
+T1036.005,Match Legitimate Resource Name or Location,Windows
+T1587.003,Digital Certificates,PRE
+T1565.001,Stored Data Manipulation,Linux
+T1565.001,Stored Data Manipulation,macOS
+T1565.001,Stored Data Manipulation,Windows
+T1110.002,Password Cracking,Identity Provider
+T1110.002,Password Cracking,Linux
+T1110.002,Password Cracking,macOS
+T1110.002,Password Cracking,Network Devices
+T1110.002,Password Cracking,Office Suite
+T1110.002,Password Cracking,Windows
+T1114.001,Local Email Collection,Windows
+T1555.001,Keychain,macOS
+T1547,Boot or Logon Autostart Execution,Linux
+T1547,Boot or Logon Autostart Execution,macOS
+T1547,Boot or Logon Autostart Execution,Windows
+T1547,Boot or Logon Autostart Execution,Network Devices
+T1003.004,LSA Secrets,Windows
+T1600,Weaken Encryption,Network Devices
+T1606.002,SAML Tokens,SaaS
+T1606.002,SAML Tokens,Windows
+T1606.002,SAML Tokens,IaaS
+T1606.002,SAML Tokens,Office Suite
+T1606.002,SAML Tokens,Identity Provider
+T1036.008,Masquerade File Type,Linux
+T1036.008,Masquerade File Type,macOS
+T1036.008,Masquerade File Type,Windows
+T1489,Service Stop,ESXi
+T1489,Service Stop,IaaS
+T1489,Service Stop,Linux
+T1489,Service Stop,macOS
+T1489,Service Stop,Windows
+T1587.001,Malware,PRE
+T1652,Device Driver Discovery,Linux
+T1652,Device Driver Discovery,macOS
+T1652,Device Driver Discovery,Windows
+T1087.002,Domain Account,Linux
+T1087.002,Domain Account,macOS
+T1087.002,Domain Account,Windows
+T1547.014,Active Setup,Windows
+T1564,Hide Artifacts,ESXi
+T1564,Hide Artifacts,Linux
+T1564,Hide Artifacts,macOS
+T1564,Hide Artifacts,Office Suite
+T1564,Hide Artifacts,Windows
+T1559.002,Dynamic Data Exchange,Windows
+T1204.002,Malicious File,Linux
+T1204.002,Malicious File,macOS
+T1204.002,Malicious File,Windows
+T1591.003,Identify Business Tempo,PRE
+T1685.004,Disable or Modify Linux Audit System Log,Linux
+T1071.005,Publish/Subscribe Protocols,macOS
+T1071.005,Publish/Subscribe Protocols,Linux
+T1071.005,Publish/Subscribe Protocols,Windows
+T1071.005,Publish/Subscribe Protocols,Network Devices
+T1592.001,Hardware,PRE
+T1080,Taint Shared Content,Windows
+T1080,Taint Shared Content,SaaS
+T1080,Taint Shared Content,Linux
+T1080,Taint Shared Content,macOS
+T1080,Taint Shared Content,Office Suite
+T1484.002,Trust Modification,Identity Provider
+T1484.002,Trust Modification,Windows
+T1213.006,Databases,IaaS
+T1213.006,Databases,Linux
+T1213.006,Databases,macOS
+T1213.006,Databases,SaaS
+T1213.006,Databases,Windows
+T1573.001,Symmetric Cryptography,ESXi
+T1573.001,Symmetric Cryptography,Linux
+T1573.001,Symmetric Cryptography,macOS
+T1573.001,Symmetric Cryptography,Network Devices
+T1573.001,Symmetric Cryptography,Windows
+T1087.001,Local Account,ESXi
+T1087.001,Local Account,Linux
+T1087.001,Local Account,macOS
+T1087.001,Local Account,Windows
+T1586.001,Social Media Accounts,PRE
+T1176.001,Browser Extensions,Linux
+T1176.001,Browser Extensions,Windows
+T1176.001,Browser Extensions,macOS
+T1542.005,TFTP Boot,Network Devices
+T1686.003,Windows Host Firewall,Windows
+T1543.003,Windows Service,Windows
+T1568.001,Fast Flux DNS,Linux
+T1568.001,Fast Flux DNS,macOS
+T1568.001,Fast Flux DNS,Windows
+T1568.001,Fast Flux DNS,ESXi
+T1497.001,System Checks,Linux
+T1497.001,System Checks,macOS
+T1497.001,System Checks,Windows
+T1053.003,Cron,Linux
+T1053.003,Cron,macOS
+T1053.003,Cron,ESXi
+T1069.002,Domain Groups,Linux
+T1069.002,Domain Groups,macOS
+T1069.002,Domain Groups,Windows
+T1588.006,Vulnerabilities,PRE
+T1566.002,Spearphishing Link,Identity Provider
+T1566.002,Spearphishing Link,Linux
+T1566.002,Spearphishing Link,macOS
+T1566.002,Spearphishing Link,Office Suite
+T1566.002,Spearphishing Link,SaaS
+T1566.002,Spearphishing Link,Windows
+T1499.004,Application or System Exploitation,Windows
+T1499.004,Application or System Exploitation,IaaS
+T1499.004,Application or System Exploitation,Linux
+T1499.004,Application or System Exploitation,macOS
+T1137,Office Application Startup,Windows
+T1137,Office Application Startup,Office Suite
+T1218.004,InstallUtil,Windows
+T1598.003,Spearphishing Link,PRE
+T1021.004,SSH,ESXi
+T1021.004,SSH,Linux
+T1021.004,SSH,macOS
+T1098.003,Additional Cloud Roles,IaaS
+T1098.003,Additional Cloud Roles,Identity Provider
+T1098.003,Additional Cloud Roles,Office Suite
+T1098.003,Additional Cloud Roles,SaaS
+T1547.012,Print Processors,Windows
+T1566.001,Spearphishing Attachment,Linux
+T1566.001,Spearphishing Attachment,macOS
+T1566.001,Spearphishing Attachment,Windows
+T1027.008,Stripped Payloads,Linux
+T1027.008,Stripped Payloads,macOS
+T1027.008,Stripped Payloads,Network Devices
+T1027.008,Stripped Payloads,Windows
+T1559.001,Component Object Model,Windows
+T1574.001,DLL,Windows
+T1119,Automated Collection,IaaS
+T1119,Automated Collection,Linux
+T1119,Automated Collection,macOS
+T1119,Automated Collection,Office Suite
+T1119,Automated Collection,SaaS
+T1119,Automated Collection,Windows
+T1689,Downgrade Attack,macOS
+T1689,Downgrade Attack,Windows
+T1689,Downgrade Attack,Linux
+T1115,Clipboard Data,Linux
+T1115,Clipboard Data,macOS
+T1115,Clipboard Data,Windows
+T1003.007,Proc Filesystem,Linux
+T1583.005,Botnet,PRE
+T1555.005,Password Managers,Linux
+T1555.005,Password Managers,macOS
+T1555.005,Password Managers,Windows
+T1553.001,Gatekeeper Bypass,macOS
+T1675,ESXi Administration Command,ESXi
+T1608.004,Drive-by Target,PRE
+T1007,System Service Discovery,Linux
+T1007,System Service Discovery,macOS
+T1007,System Service Discovery,Windows
+T1040,Network Sniffing,IaaS
+T1040,Network Sniffing,Linux
+T1040,Network Sniffing,macOS
+T1040,Network Sniffing,Network Devices
+T1040,Network Sniffing,Windows
+T1553.002,Code Signing,macOS
+T1553.002,Code Signing,Windows
+T1530,Data from Cloud Storage,IaaS
+T1530,Data from Cloud Storage,Office Suite
+T1530,Data from Cloud Storage,SaaS
+T1565.003,Runtime Data Manipulation,Linux
+T1565.003,Runtime Data Manipulation,macOS
+T1565.003,Runtime Data Manipulation,Windows
+T1552.002,Credentials in Registry,Windows
+T1135,Network Share Discovery,Linux
+T1135,Network Share Discovery,macOS
+T1135,Network Share Discovery,Windows
+T1120,Peripheral Device Discovery,Linux
+T1120,Peripheral Device Discovery,macOS
+T1120,Peripheral Device Discovery,Windows
+T1036.009,Break Process Trees,Linux
+T1036.009,Break Process Trees,macOS
+T1590.004,Network Topology,PRE
+T1587.002,Code Signing Certificates,PRE
+T1222.001,Windows Permissions,Windows
+T1137.006,Add-ins,Windows
+T1137.006,Add-ins,Office Suite
+T1685.002,Disable or Modify Cloud Log,IaaS
+T1685.002,Disable or Modify Cloud Log,SaaS
+T1685.002,Disable or Modify Cloud Log,Identity Provider
+T1685.002,Disable or Modify Cloud Log,Office Suite
+T1505.002,Transport Agent,Linux
+T1505.002,Transport Agent,Windows
+T1082,System Information Discovery,ESXi
+T1082,System Information Discovery,IaaS
+T1082,System Information Discovery,Linux
+T1082,System Information Discovery,macOS
+T1082,System Information Discovery,Network Devices
+T1082,System Information Discovery,Windows
+T1071,Application Layer Protocol,Linux
+T1071,Application Layer Protocol,macOS
+T1071,Application Layer Protocol,Windows
+T1071,Application Layer Protocol,Network Devices
+T1071,Application Layer Protocol,ESXi
+T1574.014,AppDomainManager,Windows
+T1074.002,Remote Data Staging,ESXi
+T1074.002,Remote Data Staging,IaaS
+T1074.002,Remote Data Staging,Linux
+T1074.002,Remote Data Staging,macOS
+T1074.002,Remote Data Staging,Windows
+T1098.006,Additional Container Cluster Roles,Containers
+T1053,Scheduled Task/Job,Containers
+T1053,Scheduled Task/Job,ESXi
+T1053,Scheduled Task/Job,Linux
+T1053,Scheduled Task/Job,macOS
+T1053,Scheduled Task/Job,Network Devices
+T1053,Scheduled Task/Job,Windows
+T1218.007,Msiexec,Windows
+T1590.003,Network Trust Dependencies,PRE
+T1498.002,Reflection Amplification,Windows
+T1498.002,Reflection Amplification,IaaS
+T1498.002,Reflection Amplification,Linux
+T1498.002,Reflection Amplification,macOS
+T1556.002,Password Filter DLL,Windows
+T1505.005,Terminal Services DLL,Windows
+T1059.002,AppleScript,macOS
+T1176,Software Extensions,Linux
+T1176,Software Extensions,macOS
+T1176,Software Extensions,Windows
+T1499.002,Service Exhaustion Flood,Windows
+T1499.002,Service Exhaustion Flood,IaaS
+T1499.002,Service Exhaustion Flood,Linux
+T1499.002,Service Exhaustion Flood,macOS
+T1195.003,Compromise Hardware Supply Chain,Linux
+T1195.003,Compromise Hardware Supply Chain,macOS
+T1195.003,Compromise Hardware Supply Chain,Windows
+T1106,Native API,Linux
+T1106,Native API,macOS
+T1106,Native API,Windows
+T1558.005,Ccache Files,Linux
+T1558.005,Ccache Files,macOS
+T1070.007,Clear Network Connection History and Configurations,Linux
+T1070.007,Clear Network Connection History and Configurations,macOS
+T1070.007,Clear Network Connection History and Configurations,Windows
+T1070.007,Clear Network Connection History and Configurations,Network Devices
+T1558.004,AS-REP Roasting,Windows
+T1584.003,Virtual Private Server,PRE
+T1059.010,AutoHotKey & AutoIT,Windows
+T1600.001,Reduce Key Space,Network Devices
+T1070.003,Clear Command History,ESXi
+T1070.003,Clear Command History,Linux
+T1070.003,Clear Command History,macOS
+T1070.003,Clear Command History,Network Devices
+T1070.003,Clear Command History,Windows
+T1202,Indirect Command Execution,Windows
+T1091,Replication Through Removable Media,Windows
+T1005,Data from Local System,ESXi
+T1005,Data from Local System,Linux
+T1005,Data from Local System,macOS
+T1005,Data from Local System,Network Devices
+T1005,Data from Local System,Windows
+T1140,Deobfuscate/Decode Files or Information,ESXi
+T1140,Deobfuscate/Decode Files or Information,Linux
+T1140,Deobfuscate/Decode Files or Information,macOS
+T1140,Deobfuscate/Decode Files or Information,Windows
+T1137.005,Outlook Rules,Windows
+T1137.005,Outlook Rules,Office Suite
+T1586.003,Cloud Accounts,PRE
+T1586.002,Email Accounts,PRE
+T1098.007,Additional Local or Domain Groups,Windows
+T1098.007,Additional Local or Domain Groups,macOS
+T1098.007,Additional Local or Domain Groups,Linux
+T1608.001,Upload Malware,PRE
+T1195,Supply Chain Compromise,Linux
+T1195,Supply Chain Compromise,Windows
+T1195,Supply Chain Compromise,macOS
+T1195,Supply Chain Compromise,SaaS
+T1190,Exploit Public-Facing Application,Containers
+T1190,Exploit Public-Facing Application,ESXi
+T1190,Exploit Public-Facing Application,IaaS
+T1190,Exploit Public-Facing Application,Linux
+T1190,Exploit Public-Facing Application,macOS
+T1190,Exploit Public-Facing Application,Network Devices
+T1190,Exploit Public-Facing Application,Windows
+T1558,Steal or Forge Kerberos Tickets,Linux
+T1558,Steal or Forge Kerberos Tickets,macOS
+T1558,Steal or Forge Kerberos Tickets,Windows
+T1555,Credentials from Password Stores,IaaS
+T1555,Credentials from Password Stores,Linux
+T1555,Credentials from Password Stores,macOS
+T1555,Credentials from Password Stores,Windows
+T1567,Exfiltration Over Web Service,ESXi
+T1567,Exfiltration Over Web Service,Linux
+T1567,Exfiltration Over Web Service,macOS
+T1567,Exfiltration Over Web Service,Office Suite
+T1567,Exfiltration Over Web Service,SaaS
+T1567,Exfiltration Over Web Service,Windows
+T1219,Remote Access Tools,Linux
+T1219,Remote Access Tools,macOS
+T1219,Remote Access Tools,Windows
+T1583.001,Domains,PRE
+T1560.002,Archive via Library,Linux
+T1560.002,Archive via Library,macOS
+T1560.002,Archive via Library,Windows
+T1055.003,Thread Execution Hijacking,Windows
+T1684,Social Engineering,Linux
+T1684,Social Engineering,macOS
+T1684,Social Engineering,Office Suite
+T1684,Social Engineering,SaaS
+T1684,Social Engineering,Windows
+T1036,Masquerading,Containers
+T1036,Masquerading,ESXi
+T1036,Masquerading,Linux
+T1036,Masquerading,macOS
+T1036,Masquerading,Windows
+T1546.011,Application Shimming,Windows
+T1552,Unsecured Credentials,Windows
+T1552,Unsecured Credentials,SaaS
+T1552,Unsecured Credentials,IaaS
+T1552,Unsecured Credentials,Linux
+T1552,Unsecured Credentials,macOS
+T1552,Unsecured Credentials,Containers
+T1552,Unsecured Credentials,Network Devices
+T1552,Unsecured Credentials,Office Suite
+T1552,Unsecured Credentials,Identity Provider
+T1547.010,Port Monitors,Windows
+T1070.008,Clear Mailbox Data,Linux
+T1070.008,Clear Mailbox Data,macOS
+T1070.008,Clear Mailbox Data,Office Suite
+T1070.008,Clear Mailbox Data,Windows
+T1037.002,Login Hook,macOS
+T1659,Content Injection,Linux
+T1659,Content Injection,macOS
+T1659,Content Injection,Windows
+T1055,Process Injection,Linux
+T1055,Process Injection,macOS
+T1055,Process Injection,Windows
+T1567.004,Exfiltration Over Webhook,ESXi
+T1567.004,Exfiltration Over Webhook,Linux
+T1567.004,Exfiltration Over Webhook,macOS
+T1567.004,Exfiltration Over Webhook,Office Suite
+T1567.004,Exfiltration Over Webhook,SaaS
+T1567.004,Exfiltration Over Webhook,Windows
+T1205,Traffic Signaling,Linux
+T1205,Traffic Signaling,macOS
+T1205,Traffic Signaling,Network Devices
+T1205,Traffic Signaling,Windows
+T1021.008,Direct Cloud VM Connections,IaaS
+T1218,System Binary Proxy Execution,Linux
+T1218,System Binary Proxy Execution,macOS
+T1218,System Binary Proxy Execution,Windows
+T1070.006,Timestomp,ESXi
+T1070.006,Timestomp,Linux
+T1070.006,Timestomp,macOS
+T1070.006,Timestomp,Windows
+T1557.004,Evil Twin,Network Devices
+T1620,Reflective Code Loading,Linux
+T1620,Reflective Code Loading,macOS
+T1620,Reflective Code Loading,Windows
+T1016.002,Wi-Fi Discovery,Linux
+T1016.002,Wi-Fi Discovery,Windows
+T1016.002,Wi-Fi Discovery,macOS
+T1480.002,Mutual Exclusion,Linux
+T1480.002,Mutual Exclusion,macOS
+T1480.002,Mutual Exclusion,Windows
+T1564.011,Ignore Process Interrupts,Linux
+T1564.011,Ignore Process Interrupts,macOS
+T1564.011,Ignore Process Interrupts,Windows
+T1611,Escape to Host,Windows
+T1611,Escape to Host,Linux
+T1611,Escape to Host,Containers
+T1611,Escape to Host,ESXi
+T1518.002,Backup Software Discovery,Windows
+T1518.002,Backup Software Discovery,macOS
+T1518.002,Backup Software Discovery,Linux
+T1547.009,Shortcut Modification,Windows
+T1010,Application Window Discovery,Linux
+T1010,Application Window Discovery,macOS
+T1010,Application Window Discovery,Windows
+T1569.003,Systemctl,Linux
+T1087.003,Email Account,Windows
+T1087.003,Email Account,Office Suite
+T1497.003,Time Based Checks,Linux
+T1497.003,Time Based Checks,macOS
+T1497.003,Time Based Checks,Windows
+T1218.003,CMSTP,Windows
+T1563.001,SSH Hijacking,Linux
+T1563.001,SSH Hijacking,macOS
+T1029,Scheduled Transfer,Linux
+T1029,Scheduled Transfer,macOS
+T1029,Scheduled Transfer,Windows
+T1021.002,SMB/Windows Admin Shares,Windows
+T1525,Implant Internal Image,IaaS
+T1525,Implant Internal Image,Containers
+T1572,Protocol Tunneling,ESXi
+T1572,Protocol Tunneling,Linux
+T1572,Protocol Tunneling,macOS
+T1572,Protocol Tunneling,Windows
+T1218.002,Control Panel,Windows
+T1599.001,Network Address Translation Traversal,Network Devices
+T1608.002,Upload Tool,PRE
+T1547.005,Security Support Provider,Windows
+T1036.011,Overwrite Process Arguments,Linux
+T1550,Use Alternate Authentication Material,Containers
+T1550,Use Alternate Authentication Material,IaaS
+T1550,Use Alternate Authentication Material,Identity Provider
+T1550,Use Alternate Authentication Material,Linux
+T1550,Use Alternate Authentication Material,Office Suite
+T1550,Use Alternate Authentication Material,SaaS
+T1550,Use Alternate Authentication Material,Windows
+T1597.001,Threat Intel Vendors,PRE
+T1011,Exfiltration Over Other Network Medium,Linux
+T1011,Exfiltration Over Other Network Medium,macOS
+T1011,Exfiltration Over Other Network Medium,Windows
+T1602.002,Network Device Configuration Dump,Network Devices
+T1589,Gather Victim Identity Information,PRE
+T1560,Archive Collected Data,Linux
+T1560,Archive Collected Data,macOS
+T1560,Archive Collected Data,Windows
+T1553.003,SIP and Trust Provider Hijacking,Windows
+T1185,Browser Session Hijacking,Windows
+T1021,Remote Services,Linux
+T1021,Remote Services,macOS
+T1021,Remote Services,Windows
+T1021,Remote Services,IaaS
+T1021,Remote Services,ESXi
+T1071.003,Mail Protocols,Linux
+T1071.003,Mail Protocols,macOS
+T1071.003,Mail Protocols,Network Devices
+T1071.003,Mail Protocols,Windows
+T1556.007,Hybrid Identity,IaaS
+T1556.007,Hybrid Identity,Identity Provider
+T1556.007,Hybrid Identity,Office Suite
+T1556.007,Hybrid Identity,SaaS
+T1556.007,Hybrid Identity,Windows
+T1595.002,Vulnerability Scanning,PRE
+T1059.009,Cloud API,IaaS
+T1059.009,Cloud API,Identity Provider
+T1059.009,Cloud API,Office Suite
+T1059.009,Cloud API,SaaS
+T1596,Search Open Technical Databases,PRE
+T1218.015,Electron Applications,Linux
+T1218.015,Electron Applications,macOS
+T1218.015,Electron Applications,Windows
+T1207,Rogue Domain Controller,Windows
+T1553.006,Code Signing Policy Modification,macOS
+T1553.006,Code Signing Policy Modification,Windows
+T1610,Deploy Container,Containers
+T1112,Modify Registry,Windows
+T1543.004,Launch Daemon,macOS
+T1580,Cloud Infrastructure Discovery,IaaS
+T1555.003,Credentials from Web Browsers,Linux
+T1555.003,Credentials from Web Browsers,macOS
+T1555.003,Credentials from Web Browsers,Windows
+T1574.008,Path Interception by Search Order Hijacking,Windows
+T1491,Defacement,Windows
+T1491,Defacement,IaaS
+T1491,Defacement,Linux
+T1491,Defacement,macOS
+T1491,Defacement,ESXi
+T1535,Unused/Unsupported Cloud Regions,IaaS
+T1557.003,DHCP Spoofing,Linux
+T1557.003,DHCP Spoofing,Windows
+T1557.003,DHCP Spoofing,macOS
+T1563,Remote Service Session Hijacking,Linux
+T1563,Remote Service Session Hijacking,macOS
+T1563,Remote Service Session Hijacking,Windows
+T1564.013,Bind Mounts,Linux
+T1027.001,Binary Padding,Linux
+T1027.001,Binary Padding,macOS
+T1027.001,Binary Padding,Windows
+T1505.003,Web Shell,Linux
+T1505.003,Web Shell,macOS
+T1505.003,Web Shell,Network Devices
+T1505.003,Web Shell,Windows
+T1484.001,Group Policy Modification,Windows
+T1685.006,Clear Linux or Mac System Logs,Linux
+T1685.006,Clear Linux or Mac System Logs,macOS
+T1217,Browser Information Discovery,Linux
+T1217,Browser Information Discovery,macOS
+T1217,Browser Information Discovery,Windows
+T1552.004,Private Keys,Linux
+T1552.004,Private Keys,macOS
+T1552.004,Private Keys,Network Devices
+T1552.004,Private Keys,Windows
+T1583.004,Server,PRE
+T1021.006,Windows Remote Management,Windows
+T1011.001,Exfiltration Over Bluetooth,Linux
+T1011.001,Exfiltration Over Bluetooth,macOS
+T1011.001,Exfiltration Over Bluetooth,Windows
+T1078.001,Default Accounts,Containers
+T1078.001,Default Accounts,ESXi
+T1078.001,Default Accounts,IaaS
+T1078.001,Default Accounts,Identity Provider
+T1078.001,Default Accounts,Linux
+T1078.001,Default Accounts,macOS
+T1078.001,Default Accounts,Network Devices
+T1078.001,Default Accounts,Office Suite
+T1078.001,Default Accounts,SaaS
+T1078.001,Default Accounts,Windows
+T1547.003,Time Providers,Windows
+T1546.005,Trap,macOS
+T1546.005,Trap,Linux
+T1574.006,Dynamic Linker Hijacking,Linux
+T1574.006,Dynamic Linker Hijacking,macOS
+T1136.001,Local Account,Containers
+T1136.001,Local Account,ESXi
+T1136.001,Local Account,Linux
+T1136.001,Local Account,macOS
+T1136.001,Local Account,Network Devices
+T1136.001,Local Account,Windows
+T1681,Search Threat Vendor Data,PRE
+T1674,Input Injection,Windows
+T1674,Input Injection,macOS
+T1674,Input Injection,Linux
+T1092,Communication Through Removable Media,Linux
+T1092,Communication Through Removable Media,macOS
+T1092,Communication Through Removable Media,Windows
+T1585.002,Email Accounts,PRE
+T1557.001,Name Resolution Poisoning and SMB Relay,Windows
+T1222,File and Directory Permissions Modification,ESXi
+T1222,File and Directory Permissions Modification,Linux
+T1222,File and Directory Permissions Modification,macOS
+T1222,File and Directory Permissions Modification,Windows
+T1003.001,LSASS Memory,Windows
+T1176.002,IDE Extensions,Linux
+T1176.002,IDE Extensions,macOS
+T1176.002,IDE Extensions,Windows
+T1595,Active Scanning,PRE
+T1027.016,Junk Code Insertion,Linux
+T1027.016,Junk Code Insertion,macOS
+T1027.016,Junk Code Insertion,Windows
+T1548,Abuse Elevation Control Mechanism,Linux
+T1548,Abuse Elevation Control Mechanism,macOS
+T1548,Abuse Elevation Control Mechanism,Windows
+T1548,Abuse Elevation Control Mechanism,IaaS
+T1548,Abuse Elevation Control Mechanism,Office Suite
+T1548,Abuse Elevation Control Mechanism,Identity Provider
+T1134.002,Create Process with Token,Windows
+T1548.001,Setuid and Setgid,Linux
+T1548.001,Setuid and Setgid,macOS
+T1547.004,Winlogon Helper DLL,Windows
+T1021.003,Distributed Component Object Model,Windows
+T1110.003,Password Spraying,Containers
+T1110.003,Password Spraying,ESXi
+T1110.003,Password Spraying,IaaS
+T1110.003,Password Spraying,Identity Provider
+T1110.003,Password Spraying,Linux
+T1110.003,Password Spraying,Network Devices
+T1110.003,Password Spraying,Office Suite
+T1110.003,Password Spraying,SaaS
+T1110.003,Password Spraying,Windows
+T1110.003,Password Spraying,macOS
+T1090.002,External Proxy,ESXi
+T1090.002,External Proxy,Linux
+T1090.002,External Proxy,macOS
+T1090.002,External Proxy,Network Devices
+T1090.002,External Proxy,Windows
+T1056.003,Web Portal Capture,Linux
+T1056.003,Web Portal Capture,macOS
+T1056.003,Web Portal Capture,Windows
+T1589.002,Email Addresses,PRE
+T1598.004,Spearphishing Voice,PRE
+T1683.001,Written Content,PRE
+T1003.005,Cached Domain Credentials,Windows
+T1003.005,Cached Domain Credentials,Linux
+T1098.004,SSH Authorized Keys,ESXi
+T1098.004,SSH Authorized Keys,IaaS
+T1098.004,SSH Authorized Keys,Linux
+T1098.004,SSH Authorized Keys,macOS
+T1098.004,SSH Authorized Keys,Network Devices
+T1673,Virtual Machine Discovery,ESXi
+T1673,Virtual Machine Discovery,Linux
+T1673,Virtual Machine Discovery,macOS
+T1673,Virtual Machine Discovery,Windows
+T1590.006,Network Security Appliances,PRE
+T1546.012,Image File Execution Options Injection,Windows
+T1218.008,Odbcconf,Windows
+T1593.002,Search Engines,PRE
+T1591.002,Business Relationships,PRE
+T1548.005,Temporary Elevated Cloud Access,IaaS
+T1548.005,Temporary Elevated Cloud Access,Office Suite
+T1548.005,Temporary Elevated Cloud Access,Identity Provider
+T1125,Video Capture,Linux
+T1125,Video Capture,macOS
+T1125,Video Capture,Windows
+T1055.013,Process Doppelgänging,Windows
+T1016,System Network Configuration Discovery,ESXi
+T1016,System Network Configuration Discovery,Linux
+T1016,System Network Configuration Discovery,macOS
+T1016,System Network Configuration Discovery,Network Devices
+T1016,System Network Configuration Discovery,Windows
+T1578.003,Delete Cloud Instance,IaaS
+T1593.003,Code Repositories,PRE
+T1574.005,Executable Installer File Permissions Weakness,Windows
+T1546.008,Accessibility Features,Windows
+T1496.002,Bandwidth Hijacking,Linux
+T1496.002,Bandwidth Hijacking,Windows
+T1496.002,Bandwidth Hijacking,macOS
+T1496.002,Bandwidth Hijacking,IaaS
+T1496.002,Bandwidth Hijacking,Containers
+T1087,Account Discovery,ESXi
+T1087,Account Discovery,IaaS
+T1087,Account Discovery,Identity Provider
+T1087,Account Discovery,Linux
+T1087,Account Discovery,macOS
+T1087,Account Discovery,Office Suite
+T1087,Account Discovery,SaaS
+T1087,Account Discovery,Windows
+T1090,Proxy,ESXi
+T1090,Proxy,Linux
+T1090,Proxy,macOS
+T1090,Proxy,Network Devices
+T1090,Proxy,Windows
+T1059,Command and Scripting Interpreter,Containers
+T1059,Command and Scripting Interpreter,ESXi
+T1059,Command and Scripting Interpreter,IaaS
+T1059,Command and Scripting Interpreter,Identity Provider
+T1059,Command and Scripting Interpreter,Linux
+T1059,Command and Scripting Interpreter,macOS
+T1059,Command and Scripting Interpreter,Network Devices
+T1059,Command and Scripting Interpreter,Office Suite
+T1059,Command and Scripting Interpreter,SaaS
+T1059,Command and Scripting Interpreter,Windows
+T1204.005,Malicious Library,Linux
+T1204.005,Malicious Library,macOS
+T1204.005,Malicious Library,Windows
+T1685.005,Clear Windows Event Logs,Windows
+T1136.002,Domain Account,Linux
+T1136.002,Domain Account,macOS
+T1136.002,Domain Account,Windows
+T1564.014,Extended Attributes,Linux
+T1564.014,Extended Attributes,macOS
+T1589.003,Employee Names,PRE
+T1677,Poisoned Pipeline Execution,SaaS
+T1482,Domain Trust Discovery,Windows
+T1558.001,Golden Ticket,Windows
+T1020,Automated Exfiltration,Linux
+T1020,Automated Exfiltration,macOS
+T1020,Automated Exfiltration,Network Devices
+T1020,Automated Exfiltration,Windows
+T1592.004,Client Configurations,PRE
+T1219.001,IDE Tunneling,Linux
+T1219.001,IDE Tunneling,macOS
+T1219.001,IDE Tunneling,Windows
+T1036.002,Right-to-Left Override,Linux
+T1036.002,Right-to-Left Override,macOS
+T1036.002,Right-to-Left Override,Windows
+T1588.001,Malware,PRE
+T1027.017,SVG Smuggling,Linux
+T1027.017,SVG Smuggling,macOS
+T1027.017,SVG Smuggling,Windows
+T1542.002,Component Firmware,Windows
+T1542.002,Component Firmware,Linux
+T1542.002,Component Firmware,macOS
+T1070,Indicator Removal,Containers
+T1070,Indicator Removal,ESXi
+T1070,Indicator Removal,Linux
+T1070,Indicator Removal,macOS
+T1070,Indicator Removal,Network Devices
+T1070,Indicator Removal,Office Suite
+T1070,Indicator Removal,Windows
+T1048.001,Exfiltration Over Symmetric Encrypted Non-C2 Protocol,Linux
+T1048.001,Exfiltration Over Symmetric Encrypted Non-C2 Protocol,macOS
+T1048.001,Exfiltration Over Symmetric Encrypted Non-C2 Protocol,Windows
+T1048.001,Exfiltration Over Symmetric Encrypted Non-C2 Protocol,ESXi
+T1137.001,Office Template Macros,Office Suite
+T1137.001,Office Template Macros,Windows
+T1583.003,Virtual Private Server,PRE
+T1213.001,Confluence,SaaS
+T1550.003,Pass the Ticket,Windows
+T1609,Container Administration Command,Containers
+T1083,File and Directory Discovery,ESXi
+T1083,File and Directory Discovery,Linux
+T1083,File and Directory Discovery,macOS
+T1083,File and Directory Discovery,Network Devices
+T1083,File and Directory Discovery,Windows
+T1568,Dynamic Resolution,ESXi
+T1568,Dynamic Resolution,Linux
+T1568,Dynamic Resolution,macOS
+T1568,Dynamic Resolution,Windows
+T1036.004,Masquerade Task or Service,Linux
+T1036.004,Masquerade Task or Service,macOS
+T1036.004,Masquerade Task or Service,Windows
+T1055.004,Asynchronous Procedure Call,Windows
+T1020.001,Traffic Duplication,Network Devices
+T1020.001,Traffic Duplication,IaaS
+T1647,Plist File Modification,macOS
+T1127.003,JamPlus,Windows
+T1546.009,AppCert DLLs,Windows
+T1114.003,Email Forwarding Rule,Linux
+T1114.003,Email Forwarding Rule,macOS
+T1114.003,Email Forwarding Rule,Office Suite
+T1114.003,Email Forwarding Rule,Windows
+T1074,Data Staged,ESXi
+T1074,Data Staged,IaaS
+T1074,Data Staged,Linux
+T1074,Data Staged,macOS
+T1074,Data Staged,Windows
+T1649,Steal or Forge Authentication Certificates,Windows
+T1649,Steal or Forge Authentication Certificates,Linux
+T1649,Steal or Forge Authentication Certificates,macOS
+T1649,Steal or Forge Authentication Certificates,Identity Provider
+T1098.005,Device Registration,Windows
+T1098.005,Device Registration,Identity Provider
+T1049,System Network Connections Discovery,ESXi
+T1049,System Network Connections Discovery,IaaS
+T1049,System Network Connections Discovery,Linux
+T1049,System Network Connections Discovery,macOS
+T1049,System Network Connections Discovery,Network Devices
+T1049,System Network Connections Discovery,Windows
+T1584,Compromise Infrastructure,PRE
+T1553.005,Mark-of-the-Web Bypass,Windows
+T1600.002,Disable Crypto Hardware,Network Devices
+T1542,Pre-OS Boot,Linux
+T1542,Pre-OS Boot,macOS
+T1542,Pre-OS Boot,Network Devices
+T1542,Pre-OS Boot,Windows
+T1612,Build Image on Host,Containers
+T1055.002,Portable Executable Injection,Windows
+T1218.012,Verclsid,Windows
+T1586,Compromise Accounts,PRE
+T1569.001,Launchctl,macOS
+T1584.005,Botnet,PRE
+T1059.008,Network Device CLI,Network Devices
+T1552.003,Shell History,Linux
+T1552.003,Shell History,macOS
+T1552.003,Shell History,Windows
+T1559.003,XPC Services,macOS
+T1497,Virtualization/Sandbox Evasion,Linux
+T1497,Virtualization/Sandbox Evasion,macOS
+T1497,Virtualization/Sandbox Evasion,Windows
+T1102,Web Service,ESXi
+T1102,Web Service,Linux
+T1102,Web Service,macOS
+T1102,Web Service,Windows
+T1552.001,Credentials In Files,Containers
+T1552.001,Credentials In Files,IaaS
+T1552.001,Credentials In Files,Linux
+T1552.001,Credentials In Files,macOS
+T1552.001,Credentials In Files,Windows
+T1568.003,DNS Calculation,ESXi
+T1568.003,DNS Calculation,Linux
+T1568.003,DNS Calculation,macOS
+T1568.003,DNS Calculation,Windows
+T1218.005,Mshta,Windows
+T1547.015,Login Items,macOS
+T1608,Stage Capabilities,PRE
+T1608.005,Link Target,PRE
+T1104,Multi-Stage Channels,Linux
+T1104,Multi-Stage Channels,macOS
+T1104,Multi-Stage Channels,Windows
+T1104,Multi-Stage Channels,ESXi
+T1657,Financial Theft,Linux
+T1657,Financial Theft,macOS
+T1657,Financial Theft,Office Suite
+T1657,Financial Theft,SaaS
+T1657,Financial Theft,Windows
+T1480,Execution Guardrails,ESXi
+T1480,Execution Guardrails,Linux
+T1480,Execution Guardrails,macOS
+T1480,Execution Guardrails,Windows
+T1619,Cloud Storage Object Discovery,IaaS
+T1606.001,Web Cookies,Linux
+T1606.001,Web Cookies,macOS
+T1606.001,Web Cookies,Windows
+T1606.001,Web Cookies,SaaS
+T1606.001,Web Cookies,IaaS
+T1654,Log Enumeration,ESXi
+T1654,Log Enumeration,IaaS
+T1654,Log Enumeration,Linux
+T1654,Log Enumeration,macOS
+T1654,Log Enumeration,Windows
+T1134.001,Token Impersonation/Theft,Windows
+T1567.001,Exfiltration to Code Repository,ESXi
+T1567.001,Exfiltration to Code Repository,Linux
+T1567.001,Exfiltration to Code Repository,macOS
+T1567.001,Exfiltration to Code Repository,Windows
+T1021.007,Cloud Services,IaaS
+T1021.007,Cloud Services,Identity Provider
+T1021.007,Cloud Services,Office Suite
+T1021.007,Cloud Services,SaaS
+T1205.001,Port Knocking,Linux
+T1205.001,Port Knocking,macOS
+T1205.001,Port Knocking,Network Devices
+T1205.001,Port Knocking,Windows
+T1027.012,LNK Icon Smuggling,Windows
+T1583.006,Web Services,PRE
+T1528,Steal Application Access Token,Containers
+T1528,Steal Application Access Token,IaaS
+T1528,Steal Application Access Token,Identity Provider
+T1528,Steal Application Access Token,Office Suite
+T1528,Steal Application Access Token,SaaS
+T1598.002,Spearphishing Attachment,PRE
+T1098.001,Additional Cloud Credentials,IaaS
+T1098.001,Additional Cloud Credentials,Identity Provider
+T1098.001,Additional Cloud Credentials,SaaS
+T1204,User Execution,Linux
+T1204,User Execution,Windows
+T1204,User Execution,macOS
+T1204,User Execution,IaaS
+T1204,User Execution,Containers
+T1491.001,Internal Defacement,ESXi
+T1491.001,Internal Defacement,Linux
+T1491.001,Internal Defacement,macOS
+T1491.001,Internal Defacement,Windows
+T1564.002,Hidden Users,Linux
+T1564.002,Hidden Users,macOS
+T1564.002,Hidden Users,Windows
+T1134.003,Make and Impersonate Token,Windows
+T1552.006,Group Policy Preferences,Windows
+T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,ESXi
+T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,Linux
+T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,macOS
+T1048.002,Exfiltration Over Asymmetric Encrypted Non-C2 Protocol,Windows
+T1087.004,Cloud Account,IaaS
+T1087.004,Cloud Account,Identity Provider
+T1087.004,Cloud Account,Office Suite
+T1087.004,Cloud Account,SaaS
+T1683.002,Audio-Visual Content,PRE
+T1057,Process Discovery,ESXi
+T1057,Process Discovery,Linux
+T1057,Process Discovery,macOS
+T1057,Process Discovery,Network Devices
+T1057,Process Discovery,Windows
+T1556.008,Network Provider DLL,Windows
+T1546.003,Windows Management Instrumentation Event Subscription,Windows
+T1596.004,CDNs,PRE
+T1497.002,User Activity Based Checks,Linux
+T1497.002,User Activity Based Checks,macOS
+T1497.002,User Activity Based Checks,Windows
+T1496.004,Cloud Service Hijacking,SaaS
+T1585.003,Cloud Accounts,PRE
+T1072,Software Deployment Tools,Linux
+T1072,Software Deployment Tools,macOS
+T1072,Software Deployment Tools,Network Devices
+T1072,Software Deployment Tools,SaaS
+T1072,Software Deployment Tools,Windows
+T1041,Exfiltration Over C2 Channel,ESXi
+T1041,Exfiltration Over C2 Channel,Linux
+T1041,Exfiltration Over C2 Channel,macOS
+T1041,Exfiltration Over C2 Channel,Windows
+T1134.004,Parent PID Spoofing,Windows
+T1591,Gather Victim Org Information,PRE
+T1606,Forge Web Credentials,SaaS
+T1606,Forge Web Credentials,Windows
+T1606,Forge Web Credentials,macOS
+T1606,Forge Web Credentials,Linux
+T1606,Forge Web Credentials,IaaS
+T1606,Forge Web Credentials,Office Suite
+T1606,Forge Web Credentials,Identity Provider
+T1621,Multi-Factor Authentication Request Generation,Windows
+T1621,Multi-Factor Authentication Request Generation,Linux
+T1621,Multi-Factor Authentication Request Generation,macOS
+T1621,Multi-Factor Authentication Request Generation,IaaS
+T1621,Multi-Factor Authentication Request Generation,SaaS
+T1621,Multi-Factor Authentication Request Generation,Office Suite
+T1621,Multi-Factor Authentication Request Generation,Identity Provider
+T1554,Compromise Host Software Binary,ESXi
+T1554,Compromise Host Software Binary,Linux
+T1554,Compromise Host Software Binary,macOS
+T1554,Compromise Host Software Binary,Windows
+T1552.008,Chat Messages,SaaS
+T1552.008,Chat Messages,Office Suite
+T1059.001,PowerShell,Windows
+T1546.001,Change Default File Association,Windows
+T1055.014,VDSO Hijacking,Linux
+T1071.002,File Transfer Protocols,ESXi
+T1071.002,File Transfer Protocols,Linux
+T1071.002,File Transfer Protocols,macOS
+T1071.002,File Transfer Protocols,Network Devices
+T1071.002,File Transfer Protocols,Windows
+T1679,Selective Exclusion,Windows
+T1212,Exploitation for Credential Access,Linux
+T1212,Exploitation for Credential Access,Windows
+T1212,Exploitation for Credential Access,macOS
+T1212,Exploitation for Credential Access,Identity Provider
+T1546.014,Emond,macOS
+T1102.003,One-Way Communication,Linux
+T1102.003,One-Way Communication,macOS
+T1102.003,One-Way Communication,Windows
+T1102.003,One-Way Communication,ESXi
+T1590,Gather Victim Network Information,PRE
+T1210,Exploitation of Remote Services,Linux
+T1210,Exploitation of Remote Services,Windows
+T1210,Exploitation of Remote Services,macOS
+T1210,Exploitation of Remote Services,ESXi
+T1534,Internal Spearphishing,Linux
+T1534,Internal Spearphishing,macOS
+T1534,Internal Spearphishing,Office Suite
+T1534,Internal Spearphishing,SaaS
+T1534,Internal Spearphishing,Windows
+T1574.010,Services File Permissions Weakness,Windows
+T1547.001,Registry Run Keys / Startup Folder,Windows
+T1199,Trusted Relationship,IaaS
+T1199,Trusted Relationship,Identity Provider
+T1199,Trusted Relationship,Linux
+T1199,Trusted Relationship,macOS
+T1199,Trusted Relationship,Office Suite
+T1199,Trusted Relationship,SaaS
+T1199,Trusted Relationship,Windows
+T1136.003,Cloud Account,IaaS
+T1136.003,Cloud Account,SaaS
+T1136.003,Cloud Account,Office Suite
+T1136.003,Cloud Account,Identity Provider
+T1069.001,Local Groups,Linux
+T1069.001,Local Groups,macOS
+T1069.001,Local Groups,Windows
+T1593,Search Open Websites/Domains,PRE
+T1098,Account Manipulation,Containers
+T1098,Account Manipulation,ESXi
+T1098,Account Manipulation,IaaS
+T1098,Account Manipulation,Identity Provider
+T1098,Account Manipulation,Linux
+T1098,Account Manipulation,macOS
+T1098,Account Manipulation,Network Devices
+T1098,Account Manipulation,Office Suite
+T1098,Account Manipulation,SaaS
+T1098,Account Manipulation,Windows
+T1048,Exfiltration Over Alternative Protocol,ESXi
+T1048,Exfiltration Over Alternative Protocol,IaaS
+T1048,Exfiltration Over Alternative Protocol,Linux
+T1048,Exfiltration Over Alternative Protocol,macOS
+T1048,Exfiltration Over Alternative Protocol,Network Devices
+T1048,Exfiltration Over Alternative Protocol,Office Suite
+T1048,Exfiltration Over Alternative Protocol,SaaS
+T1048,Exfiltration Over Alternative Protocol,Windows
+T1547.006,Kernel Modules and Extensions,macOS
+T1547.006,Kernel Modules and Extensions,Linux
+T1678,Delay Execution,Linux
+T1678,Delay Execution,macOS
+T1678,Delay Execution,Windows
+T1056.002,GUI Input Capture,Linux
+T1056.002,GUI Input Capture,macOS
+T1056.002,GUI Input Capture,Windows
+T1686.002,Network Device Firewall,Network Devices
+T1588.002,Tool,PRE
+T1052.001,Exfiltration over USB,Linux
+T1052.001,Exfiltration over USB,Windows
+T1052.001,Exfiltration over USB,macOS
+T1574.013,KernelCallbackTable,Windows
+T1597,Search Closed Sources,PRE
+T1053.006,Systemd Timers,Linux
+T1566,Phishing,Identity Provider
+T1566,Phishing,Linux
+T1566,Phishing,macOS
+T1566,Phishing,Office Suite
+T1566,Phishing,SaaS
+T1566,Phishing,Windows
+T1542.004,ROMMONkit,Network Devices
+T1218.001,Compiled HTML File,Windows
+T1496.001,Compute Hijacking,Windows
+T1496.001,Compute Hijacking,IaaS
+T1496.001,Compute Hijacking,Linux
+T1496.001,Compute Hijacking,macOS
+T1496.001,Compute Hijacking,Containers
+T1070.005,Network Share Connection Removal,Windows
+T1090.003,Multi-hop Proxy,ESXi
+T1090.003,Multi-hop Proxy,Linux
+T1090.003,Multi-hop Proxy,macOS
+T1090.003,Multi-hop Proxy,Network Devices
+T1090.003,Multi-hop Proxy,Windows
+T1110,Brute Force,Containers
+T1110,Brute Force,ESXi
+T1110,Brute Force,IaaS
+T1110,Brute Force,Identity Provider
+T1110,Brute Force,Linux
+T1110,Brute Force,macOS
+T1110,Brute Force,Network Devices
+T1110,Brute Force,Office Suite
+T1110,Brute Force,SaaS
+T1110,Brute Force,Windows
+T1059.004,Unix Shell,ESXi
+T1059.004,Unix Shell,Linux
+T1059.004,Unix Shell,macOS
+T1059.004,Unix Shell,Network Devices
+T1137.003,Outlook Forms,Windows
+T1137.003,Outlook Forms,Office Suite
+T1219.003,Remote Access Hardware,Linux
+T1219.003,Remote Access Hardware,macOS
+T1219.003,Remote Access Hardware,Windows
+T1565,Data Manipulation,Linux
+T1565,Data Manipulation,macOS
+T1565,Data Manipulation,Windows
+T1559,Inter-Process Communication,Linux
+T1559,Inter-Process Communication,macOS
+T1559,Inter-Process Communication,Windows
+T1001,Data Obfuscation,ESXi
+T1001,Data Obfuscation,Linux
+T1001,Data Obfuscation,macOS
+T1001,Data Obfuscation,Windows
+T1039,Data from Network Shared Drive,Linux
+T1039,Data from Network Shared Drive,macOS
+T1039,Data from Network Shared Drive,Windows
+T1584.006,Web Services,PRE
+T1601,Modify System Image,Network Devices
+T1574,Hijack Execution Flow,Linux
+T1574,Hijack Execution Flow,macOS
+T1574,Hijack Execution Flow,Windows
+T1036.012,Browser Fingerprint,Linux
+T1036.012,Browser Fingerprint,macOS
+T1036.012,Browser Fingerprint,Windows
+T1059.011,Lua,Linux
+T1059.011,Lua,Network Devices
+T1059.011,Lua,Windows
+T1059.011,Lua,macOS
+T1027.005,Indicator Removal from Tools,Linux
+T1027.005,Indicator Removal from Tools,macOS
+T1027.005,Indicator Removal from Tools,Windows
+T1204.003,Malicious Image,IaaS
+T1204.003,Malicious Image,Containers
+T1543.005,Container Service,Containers
+T1078,Valid Accounts,Containers
+T1078,Valid Accounts,ESXi
+T1078,Valid Accounts,IaaS
+T1078,Valid Accounts,Identity Provider
+T1078,Valid Accounts,Linux
+T1078,Valid Accounts,macOS
+T1078,Valid Accounts,Network Devices
+T1078,Valid Accounts,Office Suite
+T1078,Valid Accounts,SaaS
+T1078,Valid Accounts,Windows
+T1571,Non-Standard Port,ESXi
+T1571,Non-Standard Port,Linux
+T1571,Non-Standard Port,macOS
+T1571,Non-Standard Port,Windows
+T1585.001,Social Media Accounts,PRE
+T1055.012,Process Hollowing,Windows
+T1068,Exploitation for Privilege Escalation,Containers
+T1068,Exploitation for Privilege Escalation,Linux
+T1068,Exploitation for Privilege Escalation,macOS
+T1068,Exploitation for Privilege Escalation,Windows
+T1564.009,Resource Forking,macOS
+T1531,Account Access Removal,Linux
+T1531,Account Access Removal,macOS
+T1531,Account Access Removal,Windows
+T1531,Account Access Removal,SaaS
+T1531,Account Access Removal,IaaS
+T1531,Account Access Removal,Office Suite
+T1531,Account Access Removal,ESXi
+T1110.004,Credential Stuffing,Containers
+T1110.004,Credential Stuffing,ESXi
+T1110.004,Credential Stuffing,IaaS
+T1110.004,Credential Stuffing,Identity Provider
+T1110.004,Credential Stuffing,Linux
+T1110.004,Credential Stuffing,macOS
+T1110.004,Credential Stuffing,Network Devices
+T1110.004,Credential Stuffing,Office Suite
+T1110.004,Credential Stuffing,SaaS
+T1110.004,Credential Stuffing,Windows
+T1027,Obfuscated Files or Information,ESXi
+T1027,Obfuscated Files or Information,Linux
+T1027,Obfuscated Files or Information,macOS
+T1027,Obfuscated Files or Information,Network Devices
+T1027,Obfuscated Files or Information,Windows
+T1556.006,Multi-Factor Authentication,IaaS
+T1556.006,Multi-Factor Authentication,Identity Provider
+T1556.006,Multi-Factor Authentication,Linux
+T1556.006,Multi-Factor Authentication,macOS
+T1556.006,Multi-Factor Authentication,Office Suite
+T1556.006,Multi-Factor Authentication,SaaS
+T1556.006,Multi-Factor Authentication,Windows
+T1114.002,Remote Email Collection,Office Suite
+T1114.002,Remote Email Collection,Windows
+T1505.004,IIS Components,Windows
+T1036.001,Invalid Code Signature,macOS
+T1036.001,Invalid Code Signature,Windows
+T1683,Generate Content,PRE
+T1564.006,Run Virtual Instance,ESXi
+T1564.006,Run Virtual Instance,Linux
+T1564.006,Run Virtual Instance,macOS
+T1564.006,Run Virtual Instance,Windows
+T1027.014,Polymorphic Code,Linux
+T1027.014,Polymorphic Code,macOS
+T1027.014,Polymorphic Code,Windows
+T1201,Password Policy Discovery,Windows
+T1201,Password Policy Discovery,Linux
+T1201,Password Policy Discovery,macOS
+T1201,Password Policy Discovery,IaaS
+T1201,Password Policy Discovery,Network Devices
+T1201,Password Policy Discovery,Identity Provider
+T1201,Password Policy Discovery,SaaS
+T1201,Password Policy Discovery,Office Suite
+T1546,Event Triggered Execution,Linux
+T1546,Event Triggered Execution,macOS
+T1546,Event Triggered Execution,Windows
+T1546,Event Triggered Execution,SaaS
+T1546,Event Triggered Execution,IaaS
+T1546,Event Triggered Execution,Office Suite
+T1546.004,Unix Shell Configuration Modification,Linux
+T1546.004,Unix Shell Configuration Modification,macOS
+T1187,Forced Authentication,Windows
+T1134.005,SID-History Injection,Windows
+T1599,Network Boundary Bridging,Network Devices
+T1486,Data Encrypted for Impact,ESXi
+T1486,Data Encrypted for Impact,IaaS
+T1486,Data Encrypted for Impact,Linux
+T1486,Data Encrypted for Impact,macOS
+T1486,Data Encrypted for Impact,Windows
+T1690,Prevent Command History Logging,ESXi
+T1690,Prevent Command History Logging,Linux
+T1690,Prevent Command History Logging,macOS
+T1690,Prevent Command History Logging,Network Devices
+T1690,Prevent Command History Logging,Windows
+T1553,Subvert Trust Controls,Linux
+T1553,Subvert Trust Controls,macOS
+T1553,Subvert Trust Controls,Windows
+T1548.004,Elevated Execution with Prompt,macOS
+T1592.003,Firmware,PRE
+T1573,Encrypted Channel,ESXi
+T1573,Encrypted Channel,Linux
+T1573,Encrypted Channel,macOS
+T1573,Encrypted Channel,Network Devices
+T1573,Encrypted Channel,Windows
+T1547.002,Authentication Package,Windows
+T1218.010,Regsvr32,Windows
+T1567.003,Exfiltration to Text Storage Sites,Linux
+T1567.003,Exfiltration to Text Storage Sites,macOS
+T1567.003,Exfiltration to Text Storage Sites,Windows
+T1567.003,Exfiltration to Text Storage Sites,ESXi
+T1592.002,Software,PRE
+T1056,Input Capture,Linux
+T1056,Input Capture,macOS
+T1056,Input Capture,Network Devices
+T1056,Input Capture,Windows
+T1566.004,Spearphishing Voice,Linux
+T1566.004,Spearphishing Voice,macOS
+T1566.004,Spearphishing Voice,Windows
+T1566.004,Spearphishing Voice,Identity Provider
+T1587.004,Exploits,PRE
+T1685,Disable or Modify Tools,Containers
+T1685,Disable or Modify Tools,ESXi
+T1685,Disable or Modify Tools,IaaS
+T1685,Disable or Modify Tools,Linux
+T1685,Disable or Modify Tools,macOS
+T1685,Disable or Modify Tools,Network Devices
+T1685,Disable or Modify Tools,Windows
+T1593.001,Social Media,PRE
+T1213.004,Customer Relationship Management Software,SaaS
+T1546.015,Component Object Model Hijacking,Windows
+T1589.001,Credentials,PRE
+T1195.002,Compromise Software Supply Chain,Linux
+T1195.002,Compromise Software Supply Chain,Windows
+T1195.002,Compromise Software Supply Chain,macOS
+T1036.003,Rename Legitimate Utilities,Linux
+T1036.003,Rename Legitimate Utilities,macOS
+T1036.003,Rename Legitimate Utilities,Windows
+T1102.002,Bidirectional Communication,ESXi
+T1102.002,Bidirectional Communication,Linux
+T1102.002,Bidirectional Communication,macOS
+T1102.002,Bidirectional Communication,Windows
+T1203,Exploitation for Client Execution,Linux
+T1203,Exploitation for Client Execution,macOS
+T1203,Exploitation for Client Execution,Windows
+T1595.003,Wordlist Scanning,PRE
+T1667,Email Bombing,Linux
+T1667,Email Bombing,Office Suite
+T1667,Email Bombing,Windows
+T1667,Email Bombing,macOS
+T1137.004,Outlook Home Page,Windows
+T1137.004,Outlook Home Page,Office Suite
+T1573.002,Asymmetric Cryptography,ESXi
+T1573.002,Asymmetric Cryptography,Linux
+T1573.002,Asymmetric Cryptography,macOS
+T1573.002,Asymmetric Cryptography,Network Devices
+T1573.002,Asymmetric Cryptography,Windows
+T1567.002,Exfiltration to Cloud Storage,ESXi
+T1567.002,Exfiltration to Cloud Storage,Linux
+T1567.002,Exfiltration to Cloud Storage,macOS
+T1567.002,Exfiltration to Cloud Storage,Windows
+T1570,Lateral Tool Transfer,ESXi
+T1570,Lateral Tool Transfer,Linux
+T1570,Lateral Tool Transfer,macOS
+T1570,Lateral Tool Transfer,Windows
+T1574.009,Path Interception by Unquoted Path,Windows
+T1608.003,Install Digital Certificate,PRE
+T1037.005,Startup Items,macOS
+T1614.001,System Language Discovery,Linux
+T1614.001,System Language Discovery,macOS
+T1614.001,System Language Discovery,Windows
+T1095,Non-Application Layer Protocol,ESXi
+T1095,Non-Application Layer Protocol,Linux
+T1095,Non-Application Layer Protocol,macOS
+T1095,Non-Application Layer Protocol,Network Devices
+T1095,Non-Application Layer Protocol,Windows
+T1059.013,Container CLI/API,Containers
+T1027.003,Steganography,Linux
+T1027.003,Steganography,macOS
+T1027.003,Steganography,Windows
+T1584.002,DNS Server,PRE
+T1671,Cloud Application Integration,Office Suite
+T1671,Cloud Application Integration,SaaS
+T1001.003,Protocol or Service Impersonation,ESXi
+T1001.003,Protocol or Service Impersonation,Linux
+T1001.003,Protocol or Service Impersonation,macOS
+T1001.003,Protocol or Service Impersonation,Windows
+T1012,Query Registry,Windows
+T1030,Data Transfer Size Limits,Linux
+T1030,Data Transfer Size Limits,macOS
+T1030,Data Transfer Size Limits,Windows
+T1030,Data Transfer Size Limits,ESXi
+T1550.004,Web Session Cookie,IaaS
+T1550.004,Web Session Cookie,Office Suite
+T1550.004,Web Session Cookie,SaaS
+T1078.002,Domain Accounts,ESXi
+T1078.002,Domain Accounts,Linux
+T1078.002,Domain Accounts,macOS
+T1078.002,Domain Accounts,Windows
+T1218.009,Regsvcs/Regasm,Windows
+T1546.018,Python Startup Hooks,Linux
+T1546.018,Python Startup Hooks,macOS
+T1546.018,Python Startup Hooks,Windows
+T1553.004,Install Root Certificate,Linux
+T1553.004,Install Root Certificate,macOS
+T1553.004,Install Root Certificate,Windows
+T1037.003,Network Logon Script,Windows
+T1499,Endpoint Denial of Service,Windows
+T1499,Endpoint Denial of Service,Linux
+T1499,Endpoint Denial of Service,macOS
+T1499,Endpoint Denial of Service,Containers
+T1499,Endpoint Denial of Service,IaaS
+T1027.004,Compile After Delivery,Linux
+T1027.004,Compile After Delivery,macOS
+T1027.004,Compile After Delivery,Windows
+T1688,Safe Mode Boot,Windows
+T1614,System Location Discovery,IaaS
+T1614,System Location Discovery,Linux
+T1614,System Location Discovery,macOS
+T1614,System Location Discovery,Windows
+T1564.007,VBA Stomping,Linux
+T1564.007,VBA Stomping,macOS
+T1564.007,VBA Stomping,Windows
+T1197,BITS Jobs,Windows
+T1127.001,MSBuild,Windows
+T1578.005,Modify Cloud Compute Configurations,IaaS
+T1090.004,Domain Fronting,Linux
+T1090.004,Domain Fronting,macOS
+T1090.004,Domain Fronting,Windows
+T1090.004,Domain Fronting,ESXi
+T1557.002,ARP Cache Poisoning,Linux
+T1557.002,ARP Cache Poisoning,Windows
+T1557.002,ARP Cache Poisoning,macOS
+T1518.001,Security Software Discovery,IaaS
+T1518.001,Security Software Discovery,Linux
+T1518.001,Security Software Discovery,macOS
+T1518.001,Security Software Discovery,Windows
+T1564.003,Hidden Window,Linux
+T1564.003,Hidden Window,macOS
+T1564.003,Hidden Window,Windows
+T1127.002,ClickOnce,Windows
+T1059.006,Python,ESXi
+T1059.006,Python,Linux
+T1059.006,Python,macOS
+T1059.006,Python,Windows
+T1070.010,Relocate Malware,Linux
+T1070.010,Relocate Malware,macOS
+T1070.010,Relocate Malware,Network Devices
+T1070.010,Relocate Malware,Windows
+T1591.004,Identify Roles,PRE
+T1132,Data Encoding,ESXi
+T1132,Data Encoding,Linux
+T1132,Data Encoding,macOS
+T1132,Data Encoding,Windows
+T1546.010,AppInit DLLs,Windows
+T1598,Phishing for Information,PRE
+T1496,Resource Hijacking,Windows
+T1496,Resource Hijacking,IaaS
+T1496,Resource Hijacking,Linux
+T1496,Resource Hijacking,macOS
+T1496,Resource Hijacking,Containers
+T1496,Resource Hijacking,SaaS
+T1684.001,Impersonation,Linux
+T1684.001,Impersonation,macOS
+T1684.001,Impersonation,Office Suite
+T1684.001,Impersonation,SaaS
+T1684.001,Impersonation,Windows
+T1585,Establish Accounts,PRE
+T1588,Obtain Capabilities,PRE
+T1546.002,Screensaver,Windows
+T1556.009,Conditional Access Policies,IaaS
+T1556.009,Conditional Access Policies,Identity Provider
+T1578.002,Create Cloud Instance,IaaS
+T1555.006,Cloud Secrets Management Stores,IaaS
+T1213.003,Code Repositories,SaaS
+T1565.002,Transmitted Data Manipulation,Linux
+T1565.002,Transmitted Data Manipulation,macOS
+T1565.002,Transmitted Data Manipulation,Windows
+T1003.008,/etc/passwd and /etc/shadow,Linux
+T1543.001,Launch Agent,macOS
+T1569,System Services,Windows
+T1569,System Services,macOS
+T1569,System Services,Linux
+T1059.003,Windows Command Shell,Windows
+T1055.009,Proc Memory,Linux
+T1650,Acquire Access,PRE
+T1601.001,Patch System Image,Network Devices
+T1558.002,Silver Ticket,Windows
+T1213,Data from Information Repositories,Linux
+T1213,Data from Information Repositories,Windows
+T1213,Data from Information Repositories,macOS
+T1213,Data from Information Repositories,SaaS
+T1213,Data from Information Repositories,IaaS
+T1213,Data from Information Repositories,Office Suite
+T1070.009,Clear Persistence,ESXi
+T1070.009,Clear Persistence,Linux
+T1070.009,Clear Persistence,macOS
+T1070.009,Clear Persistence,Windows
+T1059.012,Hypervisor CLI,ESXi
+T1555.004,Windows Credential Manager,Windows
+T1036.010,Masquerade Account Name,Containers
+T1036.010,Masquerade Account Name,IaaS
+T1036.010,Masquerade Account Name,Identity Provider
+T1036.010,Masquerade Account Name,Linux
+T1036.010,Masquerade Account Name,macOS
+T1036.010,Masquerade Account Name,Office Suite
+T1036.010,Masquerade Account Name,SaaS
+T1036.010,Masquerade Account Name,Windows
+T1200,Hardware Additions,Windows
+T1200,Hardware Additions,Linux
+T1200,Hardware Additions,macOS
+T1219.002,Remote Desktop Software,Linux
+T1219.002,Remote Desktop Software,macOS
+T1219.002,Remote Desktop Software,Windows
+T1505,Server Software Component,Windows
+T1505,Server Software Component,Linux
+T1505,Server Software Component,macOS
+T1505,Server Software Component,Network Devices
+T1505,Server Software Component,ESXi
+T1485,Data Destruction,Containers
+T1485,Data Destruction,ESXi
+T1485,Data Destruction,IaaS
+T1485,Data Destruction,Linux
+T1485,Data Destruction,macOS
+T1485,Data Destruction,Windows
+T1132.002,Non-Standard Encoding,ESXi
+T1132.002,Non-Standard Encoding,Linux
+T1132.002,Non-Standard Encoding,macOS
+T1132.002,Non-Standard Encoding,Windows
+T1556.001,Domain Controller Authentication,Windows
+T1537,Transfer Data to Cloud Account,IaaS
+T1537,Transfer Data to Cloud Account,Office Suite
+T1537,Transfer Data to Cloud Account,SaaS
+T1027.006,HTML Smuggling,Linux
+T1027.006,HTML Smuggling,macOS
+T1027.006,HTML Smuggling,Windows
+T1556.005,Reversible Encryption,Windows
+T1027.010,Command Obfuscation,Linux
+T1027.010,Command Obfuscation,macOS
+T1027.010,Command Obfuscation,Windows
+T1070.004,File Deletion,ESXi
+T1070.004,File Deletion,Linux
+T1070.004,File Deletion,macOS
+T1070.004,File Deletion,Windows
+T1189,Drive-by Compromise,Identity Provider
+T1189,Drive-by Compromise,Linux
+T1189,Drive-by Compromise,macOS
+T1189,Drive-by Compromise,Windows
+T1498,Network Denial of Service,Windows
+T1498,Network Denial of Service,IaaS
+T1498,Network Denial of Service,Linux
+T1498,Network Denial of Service,macOS
+T1498,Network Denial of Service,Containers
+T1651,Cloud Administration Command,IaaS
+T1546.016,Installer Packages,Linux
+T1546.016,Installer Packages,macOS
+T1546.016,Installer Packages,Windows
+T1595.001,Scanning IP Blocks,PRE
+T1221,Template Injection,Windows
+T1037.004,RC Scripts,macOS
+T1037.004,RC Scripts,Linux
+T1037.004,RC Scripts,Network Devices
+T1037.004,RC Scripts,ESXi
+T1134,Access Token Manipulation,Windows
+T1111,Multi-Factor Authentication Interception,Linux
+T1111,Multi-Factor Authentication Interception,macOS
+T1111,Multi-Factor Authentication Interception,Windows
+T1027.002,Software Packing,Linux
+T1027.002,Software Packing,macOS
+T1027.002,Software Packing,Windows
+T1584.007,Serverless,PRE
+T1071.001,Web Protocols,ESXi
+T1071.001,Web Protocols,Linux
+T1071.001,Web Protocols,macOS
+T1071.001,Web Protocols,Network Devices
+T1071.001,Web Protocols,Windows
+T1059.005,Visual Basic,Linux
+T1059.005,Visual Basic,macOS
+T1059.005,Visual Basic,Windows
+T1564.005,Hidden File System,Linux
+T1564.005,Hidden File System,macOS
+T1564.005,Hidden File System,Windows
+T1543.002,Systemd Service,Linux
+T1668,Exclusive Control,Linux
+T1668,Exclusive Control,macOS
+T1668,Exclusive Control,Windows
+T1563.002,RDP Hijacking,Windows
+T1136,Create Account,Windows
+T1136,Create Account,IaaS
+T1136,Create Account,Linux
+T1136,Create Account,macOS
+T1136,Create Account,Network Devices
+T1136,Create Account,Containers
+T1136,Create Account,SaaS
+T1136,Create Account,Office Suite
+T1136,Create Account,Identity Provider
+T1136,Create Account,ESXi
+T1547.013,XDG Autostart Entries,Linux
+T1584.004,Server,PRE
+T1526,Cloud Service Discovery,IaaS
+T1526,Cloud Service Discovery,Identity Provider
+T1526,Cloud Service Discovery,Office Suite
+T1526,Cloud Service Discovery,SaaS
+T1204.004,Malicious Copy and Paste,Linux
+T1204.004,Malicious Copy and Paste,macOS
+T1204.004,Malicious Copy and Paste,Windows
+T1018,Remote System Discovery,ESXi
+T1018,Remote System Discovery,Linux
+T1018,Remote System Discovery,macOS
+T1018,Remote System Discovery,Network Devices
+T1018,Remote System Discovery,Windows
+T1046,Network Service Discovery,Containers
+T1046,Network Service Discovery,IaaS
+T1046,Network Service Discovery,Linux
+T1046,Network Service Discovery,macOS
+T1046,Network Service Discovery,Network Devices
+T1046,Network Service Discovery,Windows
+T1590.001,Domain Properties,PRE
+T1518,Software Discovery,ESXi
+T1518,Software Discovery,IaaS
+T1518,Software Discovery,Linux
+T1518,Software Discovery,macOS
+T1518,Software Discovery,Windows
+T1538,Cloud Service Dashboard,IaaS
+T1538,Cloud Service Dashboard,SaaS
+T1538,Cloud Service Dashboard,Office Suite
+T1538,Cloud Service Dashboard,Identity Provider
+T1055.005,Thread Local Storage,Windows
+T1622,Debugger Evasion,Linux
+T1622,Debugger Evasion,macOS
+T1622,Debugger Evasion,Windows
+T1036.006,Space after Filename,Linux
+T1036.006,Space after Filename,macOS
+T1547.007,Re-opened Applications,macOS
+T1608.006,SEO Poisoning,PRE
+T1550.002,Pass the Hash,Windows
+T1052,Exfiltration Over Physical Medium,Linux
+T1052,Exfiltration Over Physical Medium,macOS
+T1052,Exfiltration Over Physical Medium,Windows
+T1105,Ingress Tool Transfer,ESXi
+T1105,Ingress Tool Transfer,Linux
+T1105,Ingress Tool Transfer,macOS
+T1105,Ingress Tool Transfer,Network Devices
+T1105,Ingress Tool Transfer,Windows
+T1216.002,SyncAppvPublishingServer,Windows
+T1098.002,Additional Email Delegate Permissions,Windows
+T1098.002,Additional Email Delegate Permissions,Office Suite
+T1588.003,Code Signing Certificates,PRE
+T1648,Serverless Execution,SaaS
+T1648,Serverless Execution,IaaS
+T1648,Serverless Execution,Office Suite
+T1548.006,TCC Manipulation,macOS
+T1027.018,Invisible Unicode,Linux
+T1027.018,Invisible Unicode,macOS
+T1027.018,Invisible Unicode,Windows
+T1055.008,Ptrace System Calls,Linux
+T1653,Power Settings,Windows
+T1653,Power Settings,Linux
+T1653,Power Settings,macOS
+T1653,Power Settings,Network Devices
+T1027.007,Dynamic API Resolution,Windows
+T1021.001,Remote Desktop Protocol,Windows
+T1037.001,Logon Script (Windows),Windows
+T1055.015,ListPlanting,Windows
+T1665,Hide Infrastructure,ESXi
+T1665,Hide Infrastructure,Linux
+T1665,Hide Infrastructure,macOS
+T1665,Hide Infrastructure,Network Devices
+T1665,Hide Infrastructure,Windows
+T1484,Domain or Tenant Policy Modification,Windows
+T1484,Domain or Tenant Policy Modification,Identity Provider
+T1220,XSL Script Processing,Windows
+T1596.005,Scan Databases,PRE
+T1564.001,Hidden Files and Directories,Linux
+T1564.001,Hidden Files and Directories,macOS
+T1564.001,Hidden Files and Directories,Windows
+T1578.001,Create Snapshot,IaaS
+T1591.001,Determine Physical Locations,PRE
+T1137.002,Office Test,Windows
+T1137.002,Office Test,Office Suite
+T1587,Develop Capabilities,PRE
+T1003.003,NTDS,Windows
+T1686.001,Cloud Firewall,IaaS
+T1602.001,SNMP (MIB Dump),Network Devices
+T1686,Disable or Modify System Firewall,ESXi
+T1686,Disable or Modify System Firewall,Linux
+T1686,Disable or Modify System Firewall,macOS
+T1686,Disable or Modify System Firewall,Network Devices
+T1686,Disable or Modify System Firewall,Windows
+T1001.002,Steganography,Linux
+T1001.002,Steganography,macOS
+T1001.002,Steganography,Windows
+T1001.002,Steganography,ESXi
+T1204.001,Malicious Link,Linux
+T1204.001,Malicious Link,macOS
+T1204.001,Malicious Link,Windows
+T1550.001,Application Access Token,Containers
+T1550.001,Application Access Token,IaaS
+T1550.001,Application Access Token,Identity Provider
+T1550.001,Application Access Token,Office Suite
+T1550.001,Application Access Token,SaaS
+T1547.008,LSASS Driver,Windows
+T1569.002,Service Execution,Windows
+T1078.004,Cloud Accounts,IaaS
+T1078.004,Cloud Accounts,Identity Provider
+T1078.004,Cloud Accounts,Office Suite
+T1078.004,Cloud Accounts,SaaS
+T1480.001,Environmental Keying,Linux
+T1480.001,Environmental Keying,Windows
+T1480.001,Environmental Keying,macOS
+T1008,Fallback Channels,ESXi
+T1008,Fallback Channels,Linux
+T1008,Fallback Channels,macOS
+T1008,Fallback Channels,Windows
+T1680,Local Storage Discovery,ESXi
+T1680,Local Storage Discovery,IaaS
+T1680,Local Storage Discovery,Linux
+T1680,Local Storage Discovery,macOS
+T1680,Local Storage Discovery,Windows
+T1564.004,NTFS File Attributes,Windows
+T1558.003,Kerberoasting,Windows
+T1003.006,DCSync,Windows
+T1124,System Time Discovery,ESXi
+T1124,System Time Discovery,Linux
+T1124,System Time Discovery,macOS
+T1124,System Time Discovery,Network Devices
+T1124,System Time Discovery,Windows
+T1053.002,At,Windows
+T1053.002,At,Linux
+T1053.002,At,macOS
+T1055.001,Dynamic-link Library Injection,Windows
+T1588.005,Exploits,PRE
+T1556,Modify Authentication Process,IaaS
+T1556,Modify Authentication Process,Identity Provider
+T1556,Modify Authentication Process,Linux
+T1556,Modify Authentication Process,macOS
+T1556,Modify Authentication Process,Network Devices
+T1556,Modify Authentication Process,Office Suite
+T1556,Modify Authentication Process,SaaS
+T1556,Modify Authentication Process,Windows
+T1546.017,Udev Rules,Linux
+T1056.004,Credential API Hooking,Windows
+T1056.004,Credential API Hooking,Linux
+T1056.004,Credential API Hooking,macOS
+T1495,Firmware Corruption,Linux
+T1495,Firmware Corruption,macOS
+T1495,Firmware Corruption,Network Devices
+T1495,Firmware Corruption,Windows
+T1490,Inhibit System Recovery,Containers
+T1490,Inhibit System Recovery,ESXi
+T1490,Inhibit System Recovery,IaaS
+T1490,Inhibit System Recovery,Linux
+T1490,Inhibit System Recovery,macOS
+T1490,Inhibit System Recovery,Network Devices
+T1490,Inhibit System Recovery,Windows
+T1546.007,Netsh Helper DLL,Windows
+T1566.003,Spearphishing via Service,Linux
+T1566.003,Spearphishing via Service,macOS
+T1566.003,Spearphishing via Service,Windows
+T1090.001,Internal Proxy,ESXi
+T1090.001,Internal Proxy,Linux
+T1090.001,Internal Proxy,macOS
+T1090.001,Internal Proxy,Network Devices
+T1090.001,Internal Proxy,Windows
+T1216,System Script Proxy Execution,Windows
+T1102.001,Dead Drop Resolver,ESXi
+T1102.001,Dead Drop Resolver,Linux
+T1102.001,Dead Drop Resolver,macOS
+T1102.001,Dead Drop Resolver,Windows
+T1001.001,Junk Data,ESXi
+T1001.001,Junk Data,Linux
+T1001.001,Junk Data,macOS
+T1001.001,Junk Data,Windows
+T1598.001,Spearphishing Service,PRE
+T1505.006,vSphere Installation Bundles,ESXi
+T1552.007,Container API,Containers
+T1584.001,Domains,PRE
+T1505.001,SQL Stored Procedures,Windows
+T1505.001,SQL Stored Procedures,Linux
+T1556.004,Network Device Authentication,Network Devices
+T1561.001,Disk Content Wipe,Linux
+T1561.001,Disk Content Wipe,macOS
+T1561.001,Disk Content Wipe,Network Devices
+T1561.001,Disk Content Wipe,Windows
+T1213.005,Messaging Applications,Office Suite
+T1213.005,Messaging Applications,SaaS
+T1048.003,Exfiltration Over Unencrypted Non-C2 Protocol,ESXi
+T1048.003,Exfiltration Over Unencrypted Non-C2 Protocol,Linux
+T1048.003,Exfiltration Over Unencrypted Non-C2 Protocol,macOS
+T1048.003,Exfiltration Over Unencrypted Non-C2 Protocol,Network Devices
+T1048.003,Exfiltration Over Unencrypted Non-C2 Protocol,Windows
+T1027.015,Compression,Linux
+T1027.015,Compression,macOS
+T1027.015,Compression,Windows
+T1574.004,Dylib Hijacking,macOS
+T1601.002,Downgrade System Image,Network Devices
+T1684.002,Email Spoofing,Linux
+T1684.002,Email Spoofing,macOS
+T1684.002,Email Spoofing,Office Suite
+T1684.002,Email Spoofing,Windows
+T1078.003,Local Accounts,Containers
+T1078.003,Local Accounts,ESXi
+T1078.003,Local Accounts,Linux
+T1078.003,Local Accounts,macOS
+T1078.003,Local Accounts,Network Devices
+T1078.003,Local Accounts,Windows
+T1669,Wi-Fi Networks,Linux
+T1669,Wi-Fi Networks,Network Devices
+T1669,Wi-Fi Networks,Windows
+T1669,Wi-Fi Networks,macOS
+T1211,Exploitation for Stealth,Linux
+T1211,Exploitation for Stealth,Windows
+T1211,Exploitation for Stealth,macOS
+T1211,Exploitation for Stealth,SaaS
+T1211,Exploitation for Stealth,IaaS
+T1127,Trusted Developer Utilities Proxy Execution,Windows
+T1529,System Shutdown/Reboot,ESXi
+T1529,System Shutdown/Reboot,Linux
+T1529,System Shutdown/Reboot,macOS
+T1529,System Shutdown/Reboot,Network Devices
+T1529,System Shutdown/Reboot,Windows
+T1218.014,MMC,Windows
+T1564.010,Process Argument Spoofing,Windows
+T1574.012,COR_PROFILER,Windows
