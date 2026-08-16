@@ -1,0 +1,9 @@
+test_id,technique_id,test_type,test_result,detected,blocked,test_date
+RT001,T1059.001,Purple Team,Successful,Yes,No,2026-07-10
+RT002,T1003,Red Team,Successful,No,No,2026-07-12
+RT003,T1566,Purple Team,Blocked,Yes,Yes,2026-07-15
+RT004,T1041,Red Team,Successful,No,No,2026-07-18
+RT005,T1021.001,Purple Team,Blocked,Yes,Yes,2026-07-20
+RT006,T1059,Red Team,Successful,Yes,No,2026-07-22
+RT007,T1071.001,Purple Team,Successful,Yes,No,2026-07-25
+RT008,T1098,Red Team,Successful,No,No,2026-07-28
