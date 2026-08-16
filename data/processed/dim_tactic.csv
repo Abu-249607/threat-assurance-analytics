@@ -1,0 +1,16 @@
+tactic_id,tactic_name
+1,collection
+2,command-and-control
+3,credential-access
+4,defense-impairment
+5,discovery
+6,execution
+7,exfiltration
+8,impact
+9,initial-access
+10,lateral-movement
+11,persistence
+12,privilege-escalation
+13,reconnaissance
+14,resource-development
+15,stealth
