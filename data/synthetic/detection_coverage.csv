@@ -1,0 +1,9 @@
+detection_id,technique_id,detection_name,technology,telemetry_available,alert_enabled,validated,last_validated
+D001,T1059.001,PowerShell Script Block Detection,SIEM,Yes,Yes,Yes,2026-07-09
+D002,T1003,Credential Dumping Detection,EDR,Yes,Yes,No,2026-06-20
+D003,T1566,Phishing Attachment Detection,Email Security,Yes,Yes,Yes,2026-07-14
+D004,T1041,Outbound C2 Exfiltration Detection,DLP,Yes,No,No,2026-06-15
+D005,T1021.001,RDP Anomalous Access Detection,SIEM,Yes,Yes,Yes,2026-07-19
+D006,T1059,Command Interpreter Detection,EDR,Yes,Yes,Yes,2026-07-21
+D007,T1071.001,Web Protocol C2 Detection,Proxy,Yes,Yes,Yes,2026-07-24
+D008,T1098,Account Manipulation Detection,SIEM,Yes,Yes,No,2026-06-30
